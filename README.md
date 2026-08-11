@@ -1,5 +1,3 @@
-# Olá, eu sou o onouenic 👋
-
 ## 📊 Minhas estatísticas
 
 ![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=onouenic&show_icons=true&theme=radical&cache_seconds=86400)
